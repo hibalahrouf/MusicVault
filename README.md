@@ -7,7 +7,7 @@ Une application Android démontrant le modèle **Navigation Drawer** avec la ges
 ---
 
 ## 📸 Demo
-
+https://github.com/user-attachments/assets/55a832c5-79e3-42ff-8fc7-2ba1cc485cd4
 
 ---
 
